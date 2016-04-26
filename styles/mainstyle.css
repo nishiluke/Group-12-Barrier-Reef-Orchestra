@@ -1,0 +1,160 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Basic page styles */
+body {
+	background-color:#50baa6;
+	margin: 0px;
+	height:80%;
+}
+#mainwrapper{
+	width:80%;
+	margin:auto;
+	margin-top:-9px;
+	background-color:#FFF;
+}
+
+#bannerwrapper{
+	margin-top:40px;
+	background-color:#020303;
+}
+#bannerholder{
+	width:80%;
+	max-width: 1200px;
+	min-width: 300px;
+	margin:auto;
+}
+#banner{
+	width:100%;
+	max-width: 1200px;
+	min-width: 300px;
+	margin:auto;
+}
+
+/* Header styles */
+header #background{
+	width:100%;
+	margin:10;
+	float:left;
+	background-color:#FFF;
+	padding:10px 0px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.4);
+}
+header #logo {
+	background-color:#2467b8;
+	padding: 20px 2px 20px 200px;
+}
+header #logo a {
+	font-style: italic;
+	font-weight: bold;
+	font-size: 36px;
+	font-family:sans-serif;
+	color:#FFF;
+	text-decoration:none;
+}
+
+#navwrapper {
+	text-align: center;
+}
+header #navButton {
+	float: none;
+	text-decoration: none;
+	font-size: 17px;
+	color: #000;
+	padding: 10px 50px;
+	background-color: #FFF;
+}
+header #navButton:hover {
+	background-color:#CCC;
+}
+
+.dropdown {
+	position: relative;
+	display: inline-block;
+	float: none;
+}
+.dropdown:hover .dropdown-content {
+	display:block;
+}
+.dropdown a {
+    padding: 16px;
+}
+
+.dropdown-content {
+	display:none;
+	position:absolute;
+	float:right;
+    min-width: 150px;
+	background-color:#FFF;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.4);
+    z-index: 1;
+	margin-top: 9px; 
+	}
+.dropdown-content a {
+	color:#000;
+	text-decoration:none;
+	padding: 2px 18px;
+    display: block;
+	font-size: 17px;
+}
+.dropdown-content a:hover {background-color: #CCC}
+
+/* Main content styles */
+#maincontent {
+	padding:10px 20px 20px 20px;
+	margin-top: 9px;
+	width: 85%;
+	background-color:#fff;
+}
+#maincontent h1 {
+	font-size: 30px;
+}
+#maincontent img {
+	max-width:100%;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.4);
+	float:right;
+}
+
+
+#sidebar {
+	float:left;
+	height:100%;
+	width:10%;
+}
+#SideMenuBar {
+	float:left;
+	height:100%;
+	width:25%;	
+	margin-left:0%;
+	background-color:#fff;
+	
+}
+
+/* footer styles */
+#footerBkg {
+	background-color:#013e9a;
+	height: 250px;
+	padding: 0% 11%;
+}
+footer h2 {
+	font-size: 20px;
+	color:#fff
+}
+#contact{
+	width: 50%;
+	float:left;
+    padding:10px;
+	text-align:left;
+	color:#FFFFFF
+}
+#links {
+	float:right;
+    padding:10px;
+	text-align:right;
+}
+#ContentText {
+ margin-left:25%;
+}
+#sponsors {
+	float:left;
+}
