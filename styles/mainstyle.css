@@ -1,14 +1,35 @@
 @charset "utf-8";
 /* CSS Document */
 
+/* media query */
+@media only screen and (max-width: 820px) 
+{
+	.smallpage {
+		display:none;
+	}
+	#ContentText {
+		margin-left: 0px; 
+	}
+}
+@media only screen and (min-width: 450px) 
+{
+	#mainwrapper {
+		width: 80%;
+	}
+}
+@media only screen and (max-width: 450px) 
+{
+	#sponsors img {
+		height: 20px;
+	}
+}
+
 /* Basic page styles */
 body {
 	background-color:#50baa6;
 	margin: 0px;
-	height:80%;
 }
 #mainwrapper{
-	width: 80%;
 	margin: auto;
 	background-color: #FFF;
 }
@@ -96,14 +117,16 @@ header #navButton:hover {
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.4);
 	float:right;
 }
+#ContentText {
+	margin-left: 0px;
+	padding-right: 0;
+	padding-left: 10px;
+	padding-bottom: 0;
+}
 #SideMenuBar {
 	float: left;
-	height: 10000%;
 	width: 25%;
-	min-width: 200px;
-	background-color: #fff;
-	margin-right: 20px;
-	
+	min-width: 330px;
 }
 
 /* footer styles */
@@ -127,13 +150,6 @@ footer h2 {
 	float:right;
     padding:10px;
 	text-align:right;
-}
-#ContentText {
-	margin-left: 25%;
-	padding-right: 0;
-	padding-left: 10px;
-	padding-bottom: 0;
-	width: 75%;
 }
 #sponsors {
 	float:left;
