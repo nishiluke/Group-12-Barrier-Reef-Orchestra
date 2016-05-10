@@ -8,10 +8,9 @@ body {
 	height:80%;
 }
 #mainwrapper{
-	width:80%;
-	margin:auto;
-	margin-top:-9px;
-	background-color:#FFF;
+	width: 80%;
+	margin: auto;
+	background-color: #FFF;
 }
 
 #bannerwrapper{
@@ -19,16 +18,14 @@ body {
 	background-color:#020303;
 }
 #bannerholder{
-	width:80%;
+	width: 80%;
 	max-width: 1200px;
-	min-width: 300px;
-	margin:auto;
+	margin: auto;
 }
 #banner{
-	width:100%;
+	width: 100%;
 	max-width: 1200px;
-	min-width: 300px;
-	margin:auto;
+	margin: auto;
 }
 
 /* Header styles */
@@ -53,7 +50,8 @@ header #navButton {
 	background-color: #FFF;
 }
 header #navButton:hover {
-	background-color:#CCC;
+	background-color: #CCC;
+	;
 }
 
 .dropdown {
@@ -87,10 +85,8 @@ header #navButton:hover {
 
 /* Main content styles */
 #maincontent {
-	padding:10px 20px 20px 20px;
-	margin-top: 9px;
-	width: 85%;
-	background-color:#fff;
+	padding: 10px 20px 20px 20px;
+	background-color: #fff;
 }
 #maincontent h1 {
 	font-size: 30px;
@@ -101,11 +97,11 @@ header #navButton:hover {
 	float:right;
 }
 #SideMenuBar {
-	float:left;
-	height:100%;
-	width:25%;	
-	min-width:300px;
-	background-color:#fff;
+	float: left;
+	height: 10000%;
+	width: 25%;
+	min-width: 200px;
+	background-color: #fff;
 	margin-right: 20px;
 	
 }
@@ -133,7 +129,11 @@ footer h2 {
 	text-align:right;
 }
 #ContentText {
- margin-left:25%;
+	margin-left: 25%;
+	padding-right: 0;
+	padding-left: 10px;
+	padding-bottom: 0;
+	width: 75%;
 }
 #sponsors {
 	float:left;
