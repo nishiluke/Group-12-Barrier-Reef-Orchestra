@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Become a Member</title>
+  <link rel="stylesheet" href="styles/mainstyle.css" type="text/css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  
+  
+<meta charset="utf-8">
+<link rel="stylesheet" href="styles/mainstyle.css" type="text/css">
+<title>Barrier Reef Orchestra - home</title>
+<script type="text/javascript">
+var image1 = new Image()
+image1.src = "images/slide1.jpg"
+var image2 = new Image()
+image2.src = "images/slide2.jpg"
+var image3 = new Image()
+image3.src = "images/slide3.jpg"
+var image4 = new Image()
+image4.src = "images/slide4.jpg"
+var image5 = new Image()
+image5.src = "images/slide5.jpg"
+</script>
+  
+</head>
+<body>
+
+<header>
+    <!--HEADER-->
+    <div id="logo"> <img src="images/logo.png"></div>
+    <div id="navwrapper">
+	<div class="dropdown">
+    	<a id="navButton" href="index.html">Home</a>
+    </div>
+    <div class="dropdown">
+		<a  id="navButton" href="#">Events</a>
+		<div class="dropdown-content">
+			<a href="#">Upcoming events</a>
+			<a href="#">Past events</a>
+			<a href="#">Rehearsal schedule</a>
+		</div>
+	</div>
+    <div class="dropdown">
+		<a  id="navButton" href="#">Contact</a>
+		<div class="dropdown-content">
+			<a href="#">Become a Member</a>
+			<a href="#">Become a Player</a>
+			<a href="#">Support Us</a>
+		</div>
+	</div>
+    <div class="dropdown">
+		<a  id="navButton" href="aboutus.html">About us</a>
+		<div class="dropdown-content">
+			<a href="history.html">History</a>
+			<a href="specialguests.html">Special guests</a>
+			<a href="lifemembers.html">Life members</a>
+		</div>
+	</div>
+    <div class="dropdown">
+		<a  id="navButton" href="aboutus.html">Gallery</a>
+	</div>
+    </div>
+    </header>
+    <div id="bannerwrapper">
+    	<div id="bannerholder"><img src="images/slide1.jpg" id="banner" name="slide"></div>
+		<script type="text/javascript">
+		        var step=1;
+        		function slideit()
+        		{
+        		    document.images.slide.src = eval("image"+step+".src");
+        		    if(step<5)
+        		        step++;
+        		    else
+        		        step=1;
+        		    setTimeout("slideit()",2500);
+					
+					
+        		}
+        		slideit();
+		</script>
+    </div>
+	
+<div id="mainwrapper">
+  <section id="maincontent">
+<section id="SideMenuBar">
+  <!-- Facebook Plugin-->
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fnqorchestra&tabs=timeline&width=300&height=400&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="100%" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+</section>
+<section id="ContentText">
+	<!--CONTENT-->
+    <p><b>Sponsor or Donate to the Orchestra <br>
+The North Queensland Ensembles Inc is a tax deductible fund listed on the Register of Cultural Organisations under Subdivision 30-B of the Income tax Assessment Act 1997. Donations of $2.00 or more are tax deductible.</b></p>
+<br>
+
+<h2>Support Us!</h2>
+  <aside>
+       <p>
+          Want to become a sponsor or donate to the orchestra? </p>
+           <p>Send us a message and we will get back to you ASAP!<br>
+       </p>
+   </aside>
+
+<!-- START HERE -->
+  
+  <form id="gform" method="POST" class="pure-form pure-form-stacked"
+  action="https://script.google.com/macros/s/AKfycbxtWXk-kLCyMFGARGynMew6oTMDl4nuhZoZe9KfcYY3WTMLIRk/exec">
+    <!-- change the form action to your script url -->
+
+    <fieldset class="pure-group">
+      <label for="name">Name: </label>
+      <input id="name" name="name" placeholder="Enter your Name" />
+    </fieldset>
+
+    
+
+    <fieldset class="pure-group">
+      <label for="email"> Email Address:</label>
+      <input id="email" name="email" type="email" value=""
+      required placeholder="Enter Your Email Address"/>
+      <span id="email-invalid" style="visibility:hidden">
+        Must be a valid email address</span>
+    </fieldset>
+
+
+    <fieldset class="pure-group">
+      <label for="phone numberl"> Phone Number:</label>
+      <input id="phone number" name="phone number" type="phone number" value=""
+      required placeholder="Enter Your Phone Number"/>
+    </fieldset>
+    
+  
+    
+	<fieldset class="pure-group">
+      <label for="sponsor details"> Sponsor Details: </label>
+      <textarea id="sponsor details" name="sponsor details" rows="5"
+      placeholder="Enter Sponsor Details"></textarea>
+    </fieldset>
+    
+    
+	<fieldset class="pure-group">
+      <label for="donation details"> Donation Details: </label>
+      <textarea id="donation details" name="donation details" rows="5"
+      placeholder="Enter Donation Details"></textarea>
+    </fieldset>
+
+
+
+    <button class="button-success pure-button button-xlarge">
+      <i class="fa fa-paper-plane"></i>&nbsp;Send</button>
+
+  </form>
+
+  
+  <div style="display:none;" id="thankyou_message">
+    <h2>Thank You For Contacting Us!
+      We will get back to you as soon as possible!</h2>
+  </div>
+
+  <!-- Submit the Form to Google Using "AJAX" -->
+  <script data-cfasync="false" type="text/javascript"
+  src="https://cdn.rawgit.com/dwyl/html-form-send-email-via-google-script-without-server/master/form-submission-handler.js"></script>
+	
+
+        
+    </section>
+    </section>
+    </div>
+    <footer>
+<!--FOOTER-->
+    <div id="footerBkg">
+	
+	<div id="sponsors">
+    <br>
+    
+    <img src="images/sponsor1.jpg"height="50"width="50">
+    <img src="images/sponsor2.jpg"height="50"width="50">
+	<img src="images/sponsor3.jpg"height="50"width="50">
+    <img src="images/sponsor4.jpg"height="50"width="50">
+    <img src="images/sponsor5.jpg"height="50"width="50">
+    <img src="images/sponsor6.jpg"height="50"width="50">
+    <img src="images/sponsor7.jpg"height="50"width="50">
+    <img src="images/sponsor8.jpg"height="50"width="50">
+    <img src="images/sponsor9.jpg"height="50"width="50">
+    <img src="images/sponsor10.jpg"height="50"width="50">
+    <img src="images/sponsor11.jpg"height="50"width="50">
+    
+</div>
+</div>
+</footer>
+
+</body>
+</html>
