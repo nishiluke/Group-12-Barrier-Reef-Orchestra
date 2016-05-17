@@ -8,7 +8,7 @@
 		display:none;
 	}
 	#ContentText {
-		margin-left: 0px; 
+		margin-left: 10px; 
 	}
 }
 @media only screen and (min-width: 450px) 
@@ -118,15 +118,14 @@ header #navButton:hover {
 	float:right;
 }
 #ContentText {
-	margin-left: 0px;
-	padding-right: 0;
+	margin-left: 30%;
 	padding-left: 10px;
-	padding-bottom: 0;
 }
 #SideMenuBar {
 	float: left;
 	width: 25%;
 	min-width: 330px;
+	height: 100%;
 }
 
 /* footer styles */
@@ -156,5 +155,5 @@ footer h2 {
 }
 
 #ContentText #paraClear {
-	clear: both;
+	clear: right;
 }
