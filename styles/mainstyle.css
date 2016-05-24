@@ -1,28 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
 
-/* media query */
-@media only screen and (max-width: 800px) 
-{
-	.smallpage {
-		display:none;
-	}
-	#ContentText {
-		margin-left: 10px; 
-	}
-}
-@media only screen and (min-width: 450px) 
-{
-	#mainwrapper {
-		width: 80%;
-	}
-}
-@media only screen and (max-width: 1070px) 
-{
-	#sponsors img {
-		height: 20px;
-	}
-}
 
 /* Basic page styles */
 body {
@@ -111,6 +89,7 @@ header #navButton:hover {
 #maincontent {
 	padding: 10px 20px 20px 20px;
 	background-color: #fff;
+	min-height: 700px;
 }
 #maincontent h1 {
 	font-size: 30px;
@@ -163,4 +142,27 @@ footer h2 {
 
 #ContentText #paraClear {
 	clear: right;
+}
+
+/* media query */
+@media only screen and (min-width: 450px) 
+{
+	#mainwrapper {
+		width: 80%;
+	}
+}
+@media only screen and (max-width: 1070px) 
+{
+	#sponsors img {
+		height: 20px;
+	}
+}
+@media only screen and (max-width: 800px) 
+{
+	.smallpage {
+		display:none;
+	}
+	#ContentText {
+		margin-left: 5px; 
+	}
 }
