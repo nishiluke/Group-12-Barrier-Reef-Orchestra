@@ -20,7 +20,7 @@
 @media only screen and (max-width: 1070px) 
 {
 	#sponsors img {
-		height: 20px;
+		font:none;
 	}
 }
 
@@ -104,6 +104,9 @@ header #navButton:hover {
 }
 .dropdown-content a:hover {background-color: #CCC}
 
+#pagepadding {
+	font-size: 1px;
+}
 /* Main content styles */
 #maincontent {
 	padding: 10px 20px 20px 20px;
@@ -124,7 +127,6 @@ header #navButton:hover {
 #SideMenuBar {
 	float: left;
 	width: 25%;
-	min-width: 330px;
 	height: 100%;
 }
 
