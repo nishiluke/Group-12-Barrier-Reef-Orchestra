@@ -1,0 +1,951 @@
+Conversation started April 12
+
+Apr 12Yuvi created the group.
+
+Apr 12Yuvi Bernstein named the conversation: web design 1406.
+April 12
+
+Apr 12Yuvi Bernstein added Luke West.
+April 18
+Yuvi Bernstein
+4/18, 12:56pm
+Yuvi Bernstein
+Hey guys, just wondering if we're still on for tomorrow at 11. Turns out you do need to watch that client meeting and than the reflection. There was a lady that came into the lecture in Townsville and gave a speech (client meeting). And then the reflection in Lindsay talking about the speech. That's were we get the info for the planning.
+I'm still in for meeting up tomorrow, see you then hopefully
+Kim Hardie
+4/18, 1:12pm
+Kim Hardie
+I can do tomorrow
+Yuvi Bernstein
+4/18, 1:47pm
+Yuvi Bernstein
+Cool
+James Shuttleworth
+4/18, 2:59pm
+James Shuttleworth
+i'll be there as well
+Luke West
+4/18, 5:22pm
+Luke West
+Tomorrow's fine for me as well
+Yuvi Bernstein
+4/18, 6:03pm
+Yuvi Bernstein
+Sounds good
+April 18
+Kim Hardie
+4/18, 10:54pm
+Kim Hardie
+What time?
+is 12 good with everyone?
+April 19
+James Shuttleworth
+4/19, 9:17am
+James Shuttleworth
+11 or 12?
+Yuvi Bernstein
+4/19, 9:55am
+Yuvi Bernstein
+I don't mind, I guess. 12 is fine for me
+James Shuttleworth
+4/19, 9:58am
+James Shuttleworth
+Alright i guess 12 it is then
+Yuvi Bernstein
+4/19, 9:58am
+Yuvi Bernstein
+Cool
+Kim Hardie
+4/19, 12:04pm
+Kim Hardie
+Where are we meeting at? Still in traffic
+James Shuttleworth
+4/19, 12:04pm
+James Shuttleworth
+In the prac lab
+Kim Hardie
+4/19, 12:51pm
+Kim Hardie
+At smithy now
+How late are you guys happy to stay?
+James Shuttleworth
+4/19, 12:53pm
+James Shuttleworth
+Around 3:15
+Kim Hardie
+4/19, 12:57pm
+Kim Hardie
+Okay ill be around till 7ish
+Kim Hardie
+4/19, 2:45pm
+Kim Hardie
+https://drive.google.com/folderview?id=0B7gNhvMAD4kwcHpyQW1OYjFHdk0&usp=sharing
+
+Grp12 BRO
+drive.google.com
+Yuvi Bernstein
+4/19, 3:06pm
+Yuvi Bernstein
+http://www.mso.com.au/
+
+Home - Melbourne Symphony Orchestra
+Welcome to Melbourne Symphony Orchestra. The site provides a complete calendar of performances, booking information, subscription details and background material about the Melbourne Symphony Orchestra
+mso.com.au
+April 19
+Yuvi Bernstein
+4/19, 6:24pm
+Yuvi Bernstein
+Don't forget to add all the stuff to GitHub Kim! ????
+Kim Hardie
+4/19, 6:26pm
+Kim Hardie
+Aite willdo thx
+Yuvi Bernstein
+4/19, 6:28pm
+Yuvi Bernstein
+All G, thanks man
+Yuvi Bernstein
+4/19, 6:36pm
+Yuvi Bernstein
+Maybe mention in the comitts that as a group we worked on.. This and that and what ever there is too upload would be cool aswell
+April 21
+Yuvi Bernstein
+4/21, 11:00am
+Yuvi Bernstein
+Kim it's not showing up on the GitHub repository that anything has been uploaded yet
+Kim Hardie
+4/21, 11:04am
+Kim Hardie
+Q
+Uhj. I published it from ths laptop
+Yuvi Bernstein
+4/21, 11:04am
+Yuvi Bernstein
+Did you publish it to the repository that Luke made in that first prac
+Kim Hardie
+4/21, 11:04am
+Kim Hardie
+Yeah
+Yuvi Bernstein
+4/21, 11:05am
+Yuvi Bernstein
+True Dang, I'm on GitHub now and I can't see anything in it
+Kim Hardie
+4/21, 11:11am
+Kim Hardie
+Lemme look again
+Mabye the githib desktop client is a liar
+Yuvi Bernstein
+4/21, 11:12am
+Yuvi Bernstein
+Haha okay
+Kim Hardie
+4/21, 11:16am
+Kim Hardie
+Kim Hardie
+4/21, 11:16am
+Kim Hardie
+The desktop client says it was successfull
+Everything is on the google drive if someone else wantsnto give uploading a try
+Yuvi Bernstein
+4/21, 11:18am
+Yuvi Bernstein
+Did you sync it so it would come up online?
+Kim Hardie
+4/21, 11:18am
+Kim Hardie
+I clixked publish to master
+I think thats what i needed to do
+Yuvi Bernstein
+4/21, 11:20am
+Yuvi Bernstein
+Yeh ?? I'm not sure why it's not coming up then
+Kim Hardie
+4/21, 11:21am
+Kim Hardie
+Mabye luke needs to upload it?
+Yuvi Bernstein
+4/21, 11:21am
+Yuvi Bernstein
+Could be
+Yuvi Bernstein
+4/21, 11:34am
+Yuvi Bernstein
+Luke could you log into GitHub maybe see if it is showing up for you
+Or James aswell
+Luke West
+4/21, 11:35am
+Luke West
+I'm looking into it right now, maybe I need to setup something first?
+Luke West
+4/21, 11:46am
+Luke West
+I can upload files just fine, can someone else try uploading?
+make sure to give it a title and press commit to master
+Yuvi Bernstein
+4/21, 11:48am
+Yuvi Bernstein
+Yeh it came for me, the test you just done. I'll try uploading something
+Kim Hardie
+4/21, 11:50am
+Kim Hardie
+Dont know why it failed for me
+frown emoticon
+Luke West
+4/21, 11:52am
+Luke West
+Is there something I need to set to let collaborators edit the files?
+Kim Hardie
+4/21, 11:52am
+Kim Hardie
+Not sure i dint usually use github
+Luke West
+4/21, 11:54am
+Luke West
+Try uploading from the website
+Yuvi Bernstein
+4/21, 11:58am
+Yuvi Bernstein
+I just reverted the test that you uploaded
+Does it show up on the website
+Luke West
+4/21, 11:59am
+Luke West
+yep
+can you upload though?
+Yuvi Bernstein
+4/21, 12:02pm
+Yuvi Bernstein
+I just uploaded a image
+Can you see it
+Luke West
+4/21, 12:02pm
+Luke West
+yep
+was it from the website or github desktop
+Yuvi Bernstein
+4/21, 12:03pm
+Yuvi Bernstein
+Seems to be working fine, I'm not sure why it's not working for you Kim unsure emoticon
+GitHub desktop
+Luke West
+4/21, 12:07pm
+Luke West
+Try syncing the changes, if that works you should be able to upload files
+Yuvi Bernstein
+4/21, 12:08pm
+Yuvi Bernstein
+Are you talking to me or Kim
+Luke West
+4/21, 12:09pm
+Luke West
+Kim
+Yuvi Bernstein
+4/21, 12:10pm
+Yuvi Bernstein
+I had to sync the changes, thats how it worked for me
+luke would you be able to change the slack group name
+lindsy mentioned that it has to be  *cp1406-2016-team-x*
+x would be our group name, could probably change x to group 12
+Luke West
+4/21, 12:14pm
+Luke West
+I changed it to cp1406-2016-team-12
+Yuvi Bernstein
+4/21, 12:14pm
+Yuvi Bernstein
+nice
+Yuvi Bernstein
+4/21, 12:27pm
+Yuvi Bernstein
+Yuvi Bernstein
+4/21, 12:28pm
+Yuvi Bernstein
+Dreamweaver doesn't open the code up properly, I copied the html code from google drive into dreamweaver
+And that's how it opens it up
+Kim Hardie
+4/21, 12:34pm
+Kim Hardie
+I dont know anything about dreamweaver
+Did you tell it to recognize the css?
+Yuvi Bernstein
+4/21, 12:40pm
+Yuvi Bernstein
+Yeh, I'm not sure why it's not cooperating. But I'll upload the comps and the plan.html document
+For now, so it's looks like we've started doing work on it
+Luke West
+4/21, 12:43pm
+Luke West
+Try downloading and open the html file in dreamweaver not copy
+Yuvi Bernstein
+4/21, 12:45pm
+Yuvi Bernstein
+Yuvi Bernstein
+4/21, 12:46pm
+Yuvi Bernstein
+It's looks abit better, Kim is there an updated version that you haven't uploaded to google drive yet?
+I can just upload it to GitHub for now anyways. Should I do that?
+Yuvi Bernstein
+4/21, 1:12pm
+Yuvi Bernstein
+I uploaded the comps and the plan. Wasn't sure if to upload the website in html and Css.
+April 21
+Kim Hardie
+4/21, 6:55pm
+Kim Hardie
+I uploaded the latest version i think
+April 23
+Kim Hardie
+4/23, 5:13pm
+Kim Hardie
+So we gonna meet monday?
+James Shuttleworth
+4/23, 5:31pm
+James Shuttleworth
+isn't yuvan's birthday on monday?
+Yuvi Bernstein
+4/23, 6:32pm
+Yuvi Bernstein
+Yeh it is ?? don't really have too much planned but could come in on Monday. otherwise we still have all day Tuesday. We could meet up earlier on Tuesday say like 9 and do some work on it. And then we have that prac on Tuesday aswell in the arvo
+We've done most of the work, just need to make the two pages in html
+And make a CSS sheet for them
+Yuvi Bernstein
+4/23, 6:41pm
+Yuvi Bernstein
+Are you guys fine with working on it on Tuesday? Otherwise I don't mind at all coming in on Monday, at like 11 or 12 again.
+Kim have you done anything more too the home page and the about us page? I'm not entirely sure but I think from memory you said you would work on them and use Melbourne orchestras site for like java script examples and stuff
+Kim Hardie
+4/23, 6:51pm
+Kim Hardie
+Im okay with either day
+Ive been flat out all week still
+April 24
+James Shuttleworth
+4/24, 1:10pm
+James Shuttleworth
+Tuesday sounds good
+Yuvi Bernstein
+4/24, 1:29pm
+Yuvi Bernstein
+Cool, Tuesday at 9?
+Kim Hardie
+4/24, 1:30pm
+Kim Hardie
+Sure
+April 26
+Yuvi Bernstein
+4/26, 9:44am
+Yuvi Bernstein
+Hey Kim! Where are ya? We've all been here since 9. Also would you be able to upload the flowchart that we made last week, that would be handy. Otherwise we'll have to make a new one
+Kim Hardie
+4/26, 9:55am
+Kim Hardie
+ill be there in 20 minutes sorry
+Kim Hardie
+4/26, 10:18am
+Kim Hardie
+What room you all in?
+James Shuttleworth
+4/26, 10:20am
+James Shuttleworth
+Same as usual
+James Shuttleworth
+4/26, 12:26pm
+James Shuttleworth
+Luke can you show up for the prac at 3 so we can finish up?
+Luke West
+4/26, 12:27pm
+Luke West
+No problem
+Kim Hardie
+4/26, 12:47pm
+Kim Hardie
+Im heading home ill be back at 230
+Yuvi Bernstein
+4/26, 12:48pm
+Yuvi Bernstein
+Cool
+See you then
+Yuvi Bernstein
+4/26, 3:01pm
+Yuvi Bernstein
+where are you kim?
+April 28
+Kim Hardie
+4/28, 9:53am
+Kim Hardie
+Hey guys i won't be able to make it to the prac next tuesday as work called me in
+April 28
+James Shuttleworth
+4/28, 4:46pm
+James Shuttleworth
+dunno if you guys saw it but on learn jcu lindsay said the server is ready  so we can upload our milestone. i'm really busy with two assignments that are due tommorow so if someone could upload our milestone that would be great
+Kim Hardie
+4/28, 4:47pm
+Kim Hardie
+im about to go to work
+If no one does it ill upload it when i get home
+Yuvi Bernstein
+4/28, 5:56pm
+Yuvi Bernstein
+Already uploaded
+Luke West
+4/28, 5:56pm
+Luke West
+Me and Yuval just uploaded it around 5 o'clock
+Yuvi Bernstein
+4/28, 5:56pm
+Yuvi Bernstein
+James Shuttleworth
+4/28, 5:57pm
+James Shuttleworth
+cheers guys i apologize for not being able to do it
+Kim Hardie
+4/28, 6:00pm
+Kim Hardie
+May 2
+Yuvi Bernstein
+5/2, 6:48pm
+Yuvi Bernstein
+Still meeting at 9 tomorrow morn?
+Kim Hardie
+5/2, 7:23pm
+Kim Hardie
+I can do the morning just not the actual prac
+Yuvi Bernstein
+5/2, 8:58pm
+Yuvi Bernstein
+Cool
+May 3
+Kim Hardie
+5/3, 9:42am
+Kim Hardie
+I cant make it in today sorry guys work called me to start at 10
+If you give me a few things to do tonight ill get them done. I think we sjould look at converting to bootstrap in the basic template then all of our new pages will be responsive
+James Shuttleworth
+5/3, 10:06am
+James Shuttleworth
+Cant make it for nine but ill be there for the first prac and the afternoon prac if u guys wanna meet then as well
+Yuvi Bernstein
+5/3, 10:09am
+Yuvi Bernstein
+Luke and I are here now, but yeh should come at 11 o'clock one. We can slip up some tasks
+I can't do the 3 o'clock one
+James Shuttleworth
+5/3, 10:10am
+James Shuttleworth
+No worries on my way now
+Yuvi Bernstein
+5/3, 10:10am
+Yuvi Bernstein
+Noice
+May 3
+Yuvi Bernstein
+5/3, 1:11pm
+Yuvi Bernstein
+We put some tasks up on trello Kim, we pretty much split up the work load so everyone is working on different pages of the website. You can see who's got what on trello but I think we had you working on become a member page and becoming a player page and benefactors or support us page
+Yuvi Bernstein
+5/3, 1:12pm
+Yuvi Bernstein
+Which would probably include making forms to join and stuff
+Kim Hardie
+5/3, 1:17pm
+Kim Hardie
+Thats pretty easy. Are we adding bootstrap?
+Yuvi Bernstein
+5/3, 1:24pm
+Yuvi Bernstein
+Yeh that would be awesome actually also if you could look into implementing the pages to add bootstrap. The latest version of the website is on GitHub, so you could clone the folder of the website from there
+Kim Hardie
+5/3, 1:33pm
+Kim Hardie
+Bootstrap need to be done on every page its an entirely new system of lsying things out. Thats why i said look at it now and make a template with it
+It will take 10x the work to add it to the oages after
+Yuvi Bernstein
+5/3, 1:37pm
+Yuvi Bernstein
+Ohh yeh well there's not too much thats been done at this point, I'm not too sure how this bootstrap thing all work. But once a template has been made with bootstrap. We can just copy the content in right
+Think you could set that up for us Kim? Please
+Kim Hardie
+5/3, 1:38pm
+Kim Hardie
+Yeah probbably
+Yuvi Bernstein
+5/3, 1:39pm
+Yuvi Bernstein
+Noice
+James Shuttleworth
+5/3, 1:56pm
+James Shuttleworth
+So should i keep working on the events page or wait for the bootstrap template?
+Kim Hardie
+5/3, 1:57pm
+Kim Hardie
+Keep working
+May 4
+James Shuttleworth
+5/4, 11:55am
+James Shuttleworth
+Just letting u guys know our grade for the m1 part of the assignment just got released we got 53/60
+Kim Hardie
+5/4, 11:55am
+Kim Hardie
+Cool. Lets see if we can top tat grade for part 2
+James Shuttleworth
+5/4, 11:55am
+James Shuttleworth
+Wait nvm lmao we got 20/21 i was looking at the wrong grafe
+Yuvi Bernstein
+5/4, 11:56am
+Yuvi Bernstein
+You mean 20 outta 21
+Haha yeh
+Kim Hardie
+5/4, 11:56am
+Kim Hardie
+So HD?
+Yuvi Bernstein
+5/4, 11:56am
+Yuvi Bernstein
+Good work bois ??
+Kim Hardie
+5/4, 11:56am
+Kim Hardie
+For the next part lets try get 100%
+Yuvi Bernstein
+5/4, 11:56am
+Yuvi Bernstein
+Yeaha I'm up for that!
+Kim Hardie
+5/4, 11:57am
+Kim Hardie
+With Bootstrap. The Javascript Gallery and a few pieces of php code i think we can
+James Shuttleworth
+5/4, 11:57am
+James Shuttleworth
+We got exemplary in everything except interface and information drsig design
+May 6
+James Shuttleworth
+5/6, 12:30pm
+James Shuttleworth
+when's our next team meeting gonna be? im trying to do the past events page but dreamweavers giving me a difficult time
+Yuvi Bernstein
+5/6, 12:31pm
+Yuvi Bernstein
+Tuesday at 9 isn't it?
+James Shuttleworth
+5/6, 12:32pm
+James Shuttleworth
+sounds good to me i'll make a start on another page in the meantime
+Yuvi Bernstein
+5/6, 12:32pm
+Yuvi Bernstein
+Sweet as!
+Kim Hardie
+5/6, 1:14pm
+Kim Hardie
+Ill make sure the template is done before then
+Yuvi Bernstein
+5/6, 1:17pm
+Yuvi Bernstein
+Awesome, I'll try have all the about us pages mostly done aswell
+James Shuttleworth
+5/6, 1:20pm
+James Shuttleworth
+hows the template going to work when most the pages have already been created?
+Yuvi Bernstein
+5/6, 1:22pm
+Yuvi Bernstein
+We can just copy and paste the html code into it can't we
+James Shuttleworth
+5/6, 1:23pm
+James Shuttleworth
+true
+May 10
+Kim Hardie
+5/10, 3:24am
+Kim Hardie
+Wont make it early morning to the thing should be there for the prac
+May 10
+Yuvi Bernstein
+5/10, 7:06am
+Yuvi Bernstein
+Does that mean 11 o'clock then?
+There's one at 11 and there's also one at 3
+Luke West
+5/10, 7:21am
+Luke West
+I have class at 11 so i'll be there at 9 and 3
+Yuvi Bernstein
+5/10, 7:29am
+Yuvi Bernstein
+Should we all just meet at 3 today?
+Luke West
+5/10, 7:30am
+Luke West
+Sure
+James Shuttleworth
+5/10, 7:37am
+James Shuttleworth
+So we're not.meeting at 9
+Yuvi Bernstein
+5/10, 7:39am
+Yuvi Bernstein
+I don't mind, what do you think
+Luke West
+5/10, 7:39am
+Luke West
+I don't mind either
+Yuvi Bernstein
+5/10, 7:39am
+Yuvi Bernstein
+We can, I don't think Kim will be there but. I kinda want to see what he's cooked up with this boss tram template
+Bootstrap *
+James Shuttleworth
+5/10, 7:40am
+James Shuttleworth
+Alright 3 it is then i could use the time for gamification anyway
+Yuvi Bernstein
+5/10, 7:41am
+Yuvi Bernstein
+Cool, sounds good
+May 10
+Kim Hardie
+5/10, 12:46pm
+Kim Hardie
+Can someone check the new BootStrapIndex.html ive uploaded
+Kim Hardie
+5/10, 2:49pm
+Kim Hardie
+So we need to decide what we want to change when the website is on dofferent screen sizes.
+Im thinking we hide the banner and the facebook app
+Yuvi Bernstein
+5/10, 3:05pm
+Yuvi Bernstein
+Are you coming in Kim?
+Kim Hardie
+5/10, 3:05pm
+Kim Hardie
+At carpark now
+Yuvi Bernstein
+5/10, 3:06pm
+Yuvi Bernstein
+Ohh cool
+Kim Hardie
+5/10, 4:26pm
+Kim Hardie
+$(document).ready(function () {
+    if (screen.width < 1024) {
+        $(".sidenav").hide();
+    }
+    else {
+        $(".sidenav").show();
+    }
+});
+James Shuttleworth
+5/10, 5:16pm
+James Shuttleworth
+Kim do you think you could do the events pages instead and ill do the forms for contacts? You're better at css than me and i there's a tutorial for thw forms on slack i can follow
+Kim Hardie
+5/10, 5:18pm
+Kim Hardie
+Sure
+I can do that
+James Shuttleworth
+5/10, 7:46pm
+James Shuttleworth
+Hey kim just a heads up I think we're scrapping the rehearsal schedule page coz there is no schedule idk why we had it as a page in the first place lol
+May 11
+James Shuttleworth
+5/11, 3:45pm
+James Shuttleworth
+Hey guys realise i made a mistake there IS a rehearsal schedule in the client content so we're keeping the page haha i just made the page and uploaded it to github sorry for rhe confusion
+May 12
+Kim Hardie
+5/12, 2:22pm
+Kim Hardie
+so ive made the webpages i just need to content to put in them
+where can i find that?
+James Shuttleworth
+5/12, 3:03pm
+James Shuttleworth
+From the old barrier reef orchestra site
+Kim Hardie
+5/12, 3:06pm
+Kim Hardie
+been looking
+cant find kmuch on events
+May 13
+Yuvi Bernstein
+5/13, 10:39am
+Yuvi Bernstein
+How did you go with the forms James? Lindsay is on the Google hang out thing talking about how to do it with java script and stuff
+He's saying you can just copy the code he's included, or use any other code aswell
+He's just explaining how it works at the moment
+There a link to the video conference in slack
+James Shuttleworth
+5/13, 10:41am
+James Shuttleworth
+Working on them right now he provided a template for the form and ive just created a google spreadsheet to store the results
+Yuvi Bernstein
+5/13, 10:43am
+Yuvi Bernstein
+Ohh sweet, sounds good
+James Shuttleworth
+5/13, 10:44am
+James Shuttleworth
+I also made a gmail account for our group  where the details will be sent whenever someone enters their details ill send u guys the login info for it when i get it up and running
+Also there are two activities we have to each complete on a site called catme . There is a link to it in your student email. Just thought i would let u guys know in case you havent already seen it
+Yuvi Bernstein
+5/13, 10:47am
+Yuvi Bernstein
+Is that the peer evaluation thing
+James Shuttleworth
+5/13, 10:47am
+James Shuttleworth
+Yeah i think so its not due till the same time as the assignment
+Yuvi Bernstein
+5/13, 10:47am
+Yuvi Bernstein
+Yep
+So on slack Lindsay described it as an informal checkup so we can get feedback on how our team is going
+He said we should complete it now or in the next couple of days
+James Shuttleworth
+5/13, 10:52am
+James Shuttleworth
+Oh yea thats the first activity the feedback is the 2nd. Do we have to make an account on catme or do we just use our uni login details?
+Yuvi Bernstein
+5/13, 10:56am
+Yuvi Bernstein
+You need to go to your email
+Open up one of the catme emails from Thursday
+It's called welcome to catme system
+It's only one activity called informal checkup
+Ohh yeh sorry You creat an account with you uni email
+How'd you go?
+Also how are you going Kim with the event pages? Did you find the content
+Kim Hardie
+5/13, 1:19pm
+Kim Hardie
+no i still havnt found the content yet
+Yuvi Bernstein
+5/13, 1:33pm
+Yuvi Bernstein
+You can have a look at the task sheet again. But all the information we need is on the old website (we are redesigning it). I think Lindsay also posted some future events on the 1406 slack, so check that aswell maybe
+Yuvi Bernstein
+5/13, 1:39pm
+Yuvi Bernstein
+James when you had a look at events did you any info on it else where?
+James Shuttleworth
+5/13, 1:41pm
+James Shuttleworth
+Theres the stuff on the old website under past events and theres a bunc of content in the zip file on learnjcu .. idk if there's anything to do with events in there though
+Kim Hardie
+5/13, 1:42pm
+Kim Hardie
+ill make the pages upload them then if we find events we can add them
+James Shuttleworth
+5/13, 1:43pm
+James Shuttleworth
+Ok sounds good
+May 15
+James Shuttleworth
+5/15, 1:22pm
+James Shuttleworth
+Hey guys just wanted to get your opinion on whay fields the become member form should have?
+May 17
+Yuvi Bernstein
+5/17, 9:08am
+Yuvi Bernstein
+James and I are here hope everyone is coming still
+Kim Hardie
+5/17, 11:02am
+Kim Hardie
+Ill be a little late sorry feeling quite sick today
+Yuvi Bernstein
+5/17, 11:42am
+Yuvi Bernstein
+Are you coming in still?
+Kim Hardie
+5/17, 11:42am
+Kim Hardie
+yeha
+ill definately be in for the prac
+Yuvi Bernstein
+5/17, 11:59am
+Yuvi Bernstein
+So you can get all the info for the upcoming events in the slack channel for cp1406. If you scroll back to like April 21 and 22 dates on the channel
+Kim Hardie
+5/17, 11:59am
+Kim Hardie
+okay ill put that in now
+Yuvi Bernstein
+5/17, 12:00pm
+Yuvi Bernstein
+Also past events are just on the old website
+We were here for 9 am and sat in 11 prac, I don't think anyone is gonna stay for the 3 to 5 so you can probably just stay home if you want Kim and work on it from there
+Kim Hardie
+5/17, 12:02pm
+Kim Hardie
+im really sorry about that guys
+Picked up this bug at work an i cant talk atm
+Yuvi Bernstein
+5/17, 12:04pm
+Yuvi Bernstein
+It's alright.
+N James already made a rehearsal schedule in there you can just play with the css and make it look pretty
+Kim Hardie
+5/17, 12:04pm
+Kim Hardie
+alright cool.
+Yuvi Bernstein
+5/17, 12:05pm
+Yuvi Bernstein
+So that's all the content for the events pages, and then if you could have a look at the other pages and send us your thought, what can be improved and stuff like that. Or even make fixes where you can that would be awesome
+I think we should try and have the site completely done by Friday and then just use next week just for user testing and stuff
+Kim Hardie
+5/17, 12:06pm
+Kim Hardie
+okay. if i make any fixes ill list them on trello
+Yuvi Bernstein
+5/17, 12:06pm
+Yuvi Bernstein
+Cool
+The most updated version of the site, is on GitHub. Make sure you clone it from there to add the events pages to it
+You probably already new that but tongue emoticon
+Monday
+Kim Hardie
+5/23, 7:21am
+Kim Hardie
+Hey guys I'm sorry I've had a huge week. The last two days tending to someone who gave themselves alcohol poisoning I'll have the pages uploaded after work tonight
+Tuesday
+Yuvi Bernstein
+5/24, 9:22am
+Yuvi Bernstein
+Luke and I are in the library fellas
+Kim we can't see the events pages frown emoticon
+James Shuttleworth
+5/24, 9:23am
+James Shuttleworth
+Ive got an appointment this morning guys so i cant be there for the morning prac unfortunately but ill be there for the 3pm one
+Yuvi Bernstein
+5/24, 9:24am
+Yuvi Bernstein
+hoping to do some more user testing, but we need those pages for the site to be complete. Buying tickets to concerts ect.
+Okay, James
+Kim Hardie
+5/24, 9:46am
+Kim Hardie
+Ill have them up in a bit
+Yuvi Bernstein
+5/24, 10:46am
+Yuvi Bernstein
+Great
+Kim Hardie
+5/24, 10:51am
+Kim Hardie
+i never found the eventslist in slack however
+so im putting in what i can scrounge up from the old site
+Yuvi Bernstein
+5/24, 11:15am
+Yuvi Bernstein
+Luke is doing the events list for you now, that's okay.
+Let us know when you've uploaded what you've been working on
+Can you come in today Kim aswell at 3, for our usual prac. Luke and I will be here and James said he will aswell so we can discuss the finalised website. Get it all ready for submissions
+Kim Hardie
+5/24, 11:20am
+Kim Hardie
+i can tru syre.
+i have a few things i need to do out at edmonton
+Yuvi Bernstein
+5/24, 11:22am
+Yuvi Bernstein
+I can tru sure. (Not sure what that means?)
+Kim Hardie
+5/24, 11:22am
+Kim Hardie
+okay uploaded events pages
+i can try*
+if i leave edmonton at 2:30 i should get to uni at 3
+Yuvi Bernstein
+5/24, 11:23am
+Yuvi Bernstein
+Okay
+Where did you upload them too?
+Kim Hardie
+5/24, 11:27am
+Kim Hardie
+github
+past events. upcoming events and rehersal schedule
+Yuvi Bernstein
+5/24, 11:29am
+Yuvi Bernstein
+Yeah, their there
+Kim Hardie
+5/24, 2:22pm
+Kim Hardie
+Coming back from edmonton now
+Wednesday
+Kim Hardie
+5/25, 11:06pm
+Kim Hardie
+so ill be working on going over text, formatting and trying to fix the Safari issue tomorrow Anything else you want me to do?
+Today
+Yuvi Bernstein
+11:02am
+Yuvi Bernstein
+I think that's pretty good, maybe have a look at the marking rubric and compare it to that. See if there is anything we might have missed by accidentally or something. I changed the look of some of the heading and stuff on Tuesday to make it look the same on every page. Maybe the home page could be constructed abit different to make it look nice if you like
+Kim Hardie
+11:03am
+Kim Hardie
+alright ill give it a good shot
+at home feeling pretty sick atm
+Yuvi Bernstein
+11:04am
+Yuvi Bernstein
+Ow that sucks
+Kim Hardie
+11:04am
+Kim Hardie
+yeah
+and i have work tonight frown emoticon
+Today
+Yuvi Bernstein
+4:27pm
+Yuvi Bernstein
+Would you be able to upload the Facebook chat Kim like you said?
+Kim Hardie
+4:36pm
+Kim Hardie
+yeah
+Yuvi Bernstein
+4:36pm
+Yuvi Bernstein
+I have work tomorrow from 12 till 6pm, I'm not sure when tomorrow this is due. But I'd say befor 5pm, could someone upload the zip file to learn jcu, otherwise I can do it befor 12
+How did you go Kim with Safari thing
+Kim Hardie
+4:39pm
+Kim Hardie
+no luck unfortunately.
+but everything else is looking good
+were fitting the ruberic well
+Yuvi Bernstein
+4:40pm
+Yuvi Bernstein
+Dang okay.. Cool, have you made any changes at this point?
+Kim Hardie
+4:40pm
+Kim Hardie
+not yet.
+i dont see anything that needs changing
+ill be looking again after work
+Yuvi Bernstein
+4:40pm
+Yuvi Bernstein
+Okay
+Yuvi Bernstein
+5:39pm
+Yuvi Bernstein
+So is someone free tomorrow that would be able to put all the files into a zip file and upload to learn jcu
+And put it on FileZilla aswell
+That's if someone wants to do some more work on it... I don't mind doing it, it will just be befor 12. Cause I start work at 12
